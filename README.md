@@ -8,4 +8,4 @@
 3.  pwd: This shows your current working directory. 
 4.  mkdir: create a new directory, for example mkdir test. Another example is mkdir test2
 5.  cp: this copies directory or files to a new location or directory for example : cp test test2 ; This copies "test" directory to "test2". 
-6.  
+
