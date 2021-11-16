@@ -7,4 +7,5 @@
 2.  cd: This command allows you to change the directory of your working directory and you can also know your current working directory using the second command
 3.  pwd: This shows your current working directory. 
 4.  mkdir: create a new directory, for example mkdir test. Another example is mkdir test2
-5.  cp: this copies directory or files to a new location or directory for example : cp test test2. This moves a 
+5.  cp: this copies directory or files to a new location or directory for example : cp test test2 ; This copies "test" directory to "test2". 
+6.  
