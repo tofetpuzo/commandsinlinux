@@ -9,5 +9,5 @@
 4.  mkdir: create a new directory, for example mkdir test. Another example is mkdir test2
 5.  cp: this copies directory or files to a new location or directory for example : cp test test2 ; This copies "test" directory to "test2". 
 6.  mv : this moves files or directory from one location to another.
-7.  cat 
+7.  cat: this reads data contained in a file.
 
