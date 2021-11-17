@@ -10,4 +10,5 @@
 5.  cp: this copies directory or files to a new location or directory for example : cp test test2 ; This copies "test" directory to "test2". 
 6.  mv : this moves files or directory from one location to another.
 7.  cat: this reads data contained in a file.
+8.  touch: this creates a new file in the current directory.
 
