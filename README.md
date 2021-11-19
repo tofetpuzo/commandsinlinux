@@ -11,4 +11,6 @@
 6.  mv : this moves files or directory from one location to another.
 7.  cat: this reads data contained in a file.
 8.  touch: this creates a new file in the current directory.
+9.  ls : This command lists all the files or directories contained in the linux system.
+10.  ls -all: This le
 
