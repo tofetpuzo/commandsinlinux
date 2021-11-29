@@ -15,3 +15,4 @@
 10.  ls -all: This commnad lists all files and directories, both hidden and unhidden.
 11.  whereis: This shows where certain data is 
 12.  man: this is the manual page documentation 
+13.  which: this tells us where a location of a file is.
