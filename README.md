@@ -14,5 +14,7 @@
 9.  ls : This command lists all the files or directories contained in the linux system.
 10.  ls -all: This commnad lists all files and directories, both hidden and unhidden.
 11.  whereis: This shows where certain data is 
-12.  man: this is the manual page documentation 
-13.  which: this tells us where a location of a file is.
+12.  man: This is the manual page documentation 
+13.  which: This tells us where a location of a file is.
+14.  whoami: This tells us which user you are.
+15.  
