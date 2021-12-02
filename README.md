@@ -20,5 +20,4 @@
 15.  ls -ltr: lists all the directories which are either in read, write or list mood
 16.  echo : outputs the results into the terminal
 17.  wc : This counts the number of characters in the file
-18.  chown: This changes the ownership of the file
-19.  chmod
+18.  chown: This changes the ownership of the fil
