@@ -18,3 +18,5 @@
 13.  which: This tells us where a location of a file is.
 14.  whoami: This tells us which user you are.
 15.  ls -ltr: lists all the directories which are either in read, write or list mood
+16.  echo : outputs the results into the terminal
+17.  
