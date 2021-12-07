@@ -22,3 +22,4 @@
 17.  wc : This counts the number of characters in the file
 18.  chown: This changes the ownership of the file.
 19.  chmod: This changes the permission of the file.
+20.  awk: this is designed for data extraction.
