@@ -24,3 +24,4 @@
 19.  chmod: This changes the permission of the file.
 20.  awk: this is designed for data extraction.
 21.  grep:
+22.  diff:
