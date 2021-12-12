@@ -27,3 +27,4 @@
 22.  diff:
 23.  ver:
 24.  met:
+25.  chown user:
