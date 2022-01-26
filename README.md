@@ -28,3 +28,4 @@
 23.  ver:
 24.  met:
 25.  chown user:
+26.  ps -ef | more: shows the process of the daemon
