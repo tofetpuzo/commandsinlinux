@@ -29,3 +29,4 @@
 24.  met:
 25.  chown user:
 26.  ps -ef | more: shows the process of the daemon
+27.  rpm -qa: tells if the package exists.
